@@ -15,7 +15,7 @@ import uploadRoutes from "./routes/uploadRoutes.js";
 import dotenv from "dotenv";
 import path from "path";
 
-dotenv.config();
+dotenv.config({path:__dirname+".config.env"});
 
 connectDB();
 
