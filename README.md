@@ -18,7 +18,7 @@
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-## Note on Issues
+
 
 
 
@@ -41,7 +41,7 @@ npm run dev
 npm run server
 ```
 
-## Build & Deploy
+
 
 ``
 
@@ -60,4 +60,4 @@ jane@example.com (Customer)
 ```
 
 
-## License
+
